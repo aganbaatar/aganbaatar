@@ -6,8 +6,19 @@ Hi, I'm Anujin! I'm currently a student at the University of Wisconsin-Madison p
 
 ## My Toolbox
 
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Programming and Querying** | Python, SQL, STATA|
-| **Visualization and Data Warehousing** | Tableau, Power BI, Excel, AWS |
-| **Analytics and Modeling** | Statistical Modeling, A/B Testing, Prescriptive Modeling & Optimization, Linear & Logistic Regression|
+Programming and Querying:
+- Python
+- SQL
+- STATA
+
+Visualization and Data Warehousing:
+- Tableau
+- Power BI
+- Excel
+- AWS 
+
+Analytics and Modeling:
+- Statistical Modeling
+- A/B Testing
+- Prescriptive Modeling & Optimization
+- Linear & Logistic Regression
